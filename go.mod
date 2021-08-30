@@ -1,3 +1,3 @@
-module github.com/danilpanshin/utils/v2
+module github.com/danilpanshin/utils/v3
 
 go 1.17
